@@ -23,7 +23,7 @@
                     <ul class="nav navbar-nav c-theme-nav">
                         <li>
                             <a class="btn btn-lg c-btn-red c-btn-border-2x c-btn-border-2x-header c-btn btn-no-focus"
-                               href="espectaculo.php">El espectáculo</a>
+                               href="#espectaculo">El espectáculo</a>
                         </li>
                         <li>
                             <a class="btn btn-lg c-btn-red c-btn-border-2x c-btn-border-2x-header c-btn btn-no-focus"

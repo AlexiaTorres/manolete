@@ -21,6 +21,8 @@
 <link href="assets/base/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css"/>
 <link href="assets/base/css/custom.css" rel="stylesheet" type="text/css"/>
 <link href="assets/base/css/style.css" rel="stylesheet" type="text/css"/>
+
+<link href="https://fonts.googleapis.com/css?family=Molle:400i" rel="stylesheet">
 <!-- END THEME STYLES -->
 <link rel="shortcut icon" href="favicon.ico"/>
 

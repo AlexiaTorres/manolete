@@ -109,8 +109,15 @@ header {
     color: #b50300;
     font-weight: bold;
 }
-
-
+.cursive-sub-red{
+    color: #b50300;
+    border-bottom: 1px solid #b50300;
+}
+h1.red-bold{
+    font-size: 48px;
+    font-family: 'Molle', cursive;
+    margin-bottom: 1em;
+}
 /*.smalltext {*/
 /*padding-top: 5px;*/
 /*font-size: 16px;*/

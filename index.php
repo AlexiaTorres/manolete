@@ -64,24 +64,29 @@
             </div>
         </section>
 
+        <?php
+        include "espectaculo.php";
+        ?>
 
-    <div id="footer-index" class="notice">
-        <div class="bg"></div>
-        <div id="barraaceptacion" class="content">
-            <p class="text-muted">
-                Utilizamos cookies propias y de terceros para mejorar la experiencia de navegación, y ofrecer contenidos
-                y publicidad de interés.<br/> Al continuar con la navegación entendemos que se acepta nuestra<a
-                        class="ok" href="#modalCookies" role="button" data-toggle="modal"> política de cookies</a>.<br/>
-                <a href="javascript:void(0);" class="ok" onclick="PonerCookie();">Aceptar</a>
-            </p>
+        <div id="footer-index" class="notice">
+            <div class="bg"></div>
+            <div id="barraaceptacion" class="content">
+                <p class="text-muted">
+                    Utilizamos cookies propias y de terceros para mejorar la experiencia de navegación, y ofrecer
+                    contenidos
+                    y publicidad de interés.<br/> Al continuar con la navegación entendemos que se acepta nuestra<a
+                            class="ok" href="#modalCookies" role="button" data-toggle="modal"> política de
+                        cookies</a>.<br/>
+                    <a href="javascript:void(0);" class="ok" onclick="PonerCookie();">Aceptar</a>
+                </p>
+            </div>
         </div>
-    </div>
 
-    <div class="c-layout-go2top">
-        <i class="icon-arrow-up"></i>
+        <div class="c-layout-go2top">
+            <i class="icon-arrow-up"></i>
+        </div>
+        <!-- END: LAYOUT/FOOTERS/GO2TOP -->
     </div>
-    <!-- END: LAYOUT/FOOTERS/GO2TOP -->
-</div>
 </body>
 </html>
 
