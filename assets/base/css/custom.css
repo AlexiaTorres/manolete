@@ -80,6 +80,11 @@ body {
     background-color: #ab8e7c !important;
 }
 
+/*MODALS*/
+.modal-content {
+overflow: auto;
+}
+
 /*HEADER*/
 header {
     background: #ab8e7c !important;
@@ -99,9 +104,12 @@ header {
     color: white !important;
 }
 
-/*.modal-content {*/
-/*overflow: auto;*/
-/*}*/
+/*TEXT*/
+.red-bold{
+    color: #b50300;
+    font-weight: bold;
+}
+
 
 /*.smalltext {*/
 /*padding-top: 5px;*/
