@@ -34,31 +34,17 @@
         </section>
 
         <!-- APRENDER -->
-        <section class="c-layout-revo-slider c-layout-revo-slider-2" id="aprender">
+        <section class="c-layout-revo-slider c-layout-revo-slider-2">
             <div class="c-content-box c-size-md">
                 <div class="container">
-                    <div class="c-content-client-logos-slider-1 c-bordered" data-slider="owl" data-items="6"
-                         data-desktop-items="4" data-desktop-small-items="3" data-tablet-items="3"
-                         data-mobile-small-items="2" data-auto-play="5000">
-                        <div class="c-content-title-1  c-bg-white">
-                            <h3 class="c-center c-font-uppercase c-font-bold">¿Qué vas a aprender en el Máster?</h3>
-                            <div class="c-line-center c-theme-bg">
-                            </div>
-                            <div class="c-center">
-                                En toda película, videojuego, pieza publicitaria...el arte conceptual es una pieza
-                                fundamental.
-                                <br/>Todo el diseño posterior está basado en este trabajo previode los artistas
-                                conceptuales e ilustradores.
-                                <br/>Aprende a trabajar en el ámbito creativo para desarrollar a nivel profesional
-                                cualquier tipo de trabajo inherente
-                                al diseño y Concept Art.<br/> Acaba la formación presentando un portfolio competitivo y
-                                atractivo, listo para el mercado laboral.
-                                <br/><br/>
-                            </div>
-                        </div>
-                        <img class="infografia" alt="" src="assets/base/img/content/ilustracion/infografia.jpg"
-                             style="opacity: 1!important;">
-                    </div>
+                    <p>
+                        Manolete es una <span class="red-bold"> producción española al más puro estilo de los
+                        musicales de Broadway</span>. Un espectáculo en el que la ambientación y los efectos
+                        multimedia contrastan con cantaores, barítonos, tenores y mezzosopranos. Una fusión
+                        de estilos musicales. Una combinación armoniosa de lírica, flamenco, ballet y una
+                        orquesta de 35 instrumentos. Una obra destinada a recorrer el mundo transmitiendo
+                        arte, pasión y espectáculo.
+                    </p>
                 </div>
             </div>
         </section>
