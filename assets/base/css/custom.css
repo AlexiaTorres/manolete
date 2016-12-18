@@ -32,7 +32,7 @@
     position: absolute;
     padding-left: 5px;
     font-family: verdana;
-    font-size: 12px;
+    font-size: 11px;
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 10px 10px 10px 10px;
     -moz-border-radius: 10px 10px 10px 10px;
@@ -44,10 +44,12 @@
 
 .ok {
     font-weight: bold;
-    color: #050D2D;
+    color: #b50300;
     text-decoration: none;
 }
-
+.ok:hover {
+    color: #b50300;
+}
 @media all and (max-width: 470px) and (min-width: 365px) {
     #barraaceptacion {
         top: 33em;
