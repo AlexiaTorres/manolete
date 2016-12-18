@@ -1,20 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Master de Ilustración y Concept-Art - Aula Temática Madrid Escuela 3D</title>
-
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="">
-    <meta name="robots" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <?php
-    include 'head.php';
-    include 'header.php';
-    include 'privacy.php';
-    include 'cookies.php';
-    ?>
+<?php
+include 'head.php';
+include 'header.php';
+include 'privacy.php';
+include 'cookies.php';
+?>
 <body class="c-layout-header-fixed c-layout-header-fullscreen c-layout-header-topbar ilustracion">
 
 <div class="c-layout-page">
