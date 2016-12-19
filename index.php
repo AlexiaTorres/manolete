@@ -16,6 +16,7 @@ include 'cookies.php';
         include "espectaculo.php";
         include "donde-y-cuando.php";
         include "productora-y-equipo.php";
+        include "patrocina.php";
         ?>
 
         <div id="footer-index" class="notice">

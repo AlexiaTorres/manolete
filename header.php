@@ -35,7 +35,7 @@
                         </li>
                         <li>
                             <a class="btn btn-lg c-btn-red c-btn-border-2x c-btn-border-2x-header c-btn btn-no-focus"
-                               href="patrocinio.php">Patrocina</a>
+                               href="#patrocina">Patrocina</a>
                         </li>
                         <li>
                             <a class="btn btn-lg c-btn-red c-btn-border-2x c-btn-border-2x-header c-btn btn-no-focus"

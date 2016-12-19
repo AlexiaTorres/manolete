@@ -132,7 +132,7 @@ h1.red-bold {
     margin-bottom: 1em;
 }
 
-a:hover{
+a:link, a:hover, a:active, a:before, a:after, a:visited{
     color: var(--red);
 }
 
