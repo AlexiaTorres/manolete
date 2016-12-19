@@ -87,7 +87,7 @@ body {
 }
 
 /*ARROW GO TOP*/
-.icon-arrow-up {
+div.c-layout-go2top > i.icon-arrow-up {
     color: var(--red);
 }
 
