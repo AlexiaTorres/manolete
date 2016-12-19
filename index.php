@@ -17,6 +17,7 @@ include 'cookies.php';
         include "donde-y-cuando.php";
         include "productora-y-equipo.php";
         include "patrocina.php";
+        include "invierte-y-gana.php";
         ?>
 
         <div id="footer-index" class="notice">

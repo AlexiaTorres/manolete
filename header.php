@@ -39,12 +39,14 @@
                         </li>
                         <li>
                             <a class="btn btn-lg c-btn-red c-btn-border-2x c-btn-border-2x-header c-btn btn-no-focus"
-                               href="invierte-y-gana.php">Invierte y gana</a>
+                               href="#invierte-y-gana">Invierte y gana / Contacta con nosotros</a>
                         </li>
+                        <!--
                         <li>
                             <a class="btn btn-lg c-btn-red c-btn-border-2x c-btn-border-2x-header c-btn btn-no-focus"
                                href="contacto.php">Contacto</a>
                         </li>
+                        -->
                     </ul>
                     <!-- END MEGA MENU -->
                 </nav>

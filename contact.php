@@ -11,8 +11,8 @@ if( isset($_POST) ){
 		$email = $_POST['email'];
 		$phone = $_POST['phone'];
 		$aditional_info = $_POST['info'];
-		$subject_title = "Información sobre el Master de Ilustracion";
-		$emailDestino ="info@aulatematicamadrid.es";
+		$subject_title = "Manolete - Contacto";
+		$emailDestino ="alexia.torres@digitali.es";
 
 
 		//validate name is not empty
@@ -37,7 +37,7 @@ if( isset($_POST) ){
 				$headers .= "Reply-To: $emailDestino\n";
 				$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 
-				$emailbody = "<p>Una persona está interesada en obtener información sobre el Master de Ilustracion.</p>
+				$emailbody = "<p>Mensaje a través del formulario de contacto de Manolete</p>
 							  <p><strong>Nombre: </strong> {$author} </p>
 							  <p><strong>E-mail: </strong> {$email} </p>
 								<p><strong>Teléfono: </strong> {$phone} </p>
@@ -48,7 +48,7 @@ if( isset($_POST) ){
 
 			}
 		if($envio){
-				$us="beta.com.es/autm";
+				$us="beta.com.es/manolete";
 				$author=utf8_decode($author);
 				$headers = "From: $us <$emailDestino> \n";
 					$headers="Return-path:".$emailDestino."\r\n";
@@ -61,11 +61,9 @@ if( isset($_POST) ){
 					$body_top .= "Content-type: text/html; charset=iso-8859-1\n";
 
 					$body= "Gracias <strong>{$author}</strong>, su email ha llegado correctamente. <br>
-							En este enlace encontrará la información necesaria:
-								<br/>
-								<a href='http://beta.com.es/atm3/masters/pdf/Master_Ilustracion_AulaTematica.pdf'>Temario-Ilustracion</a>";
+							Nos pondremos en contacto con usted.";
 
-					mail($email,utf8_decode("Aula Temática - Queremos Ayudarte"),utf8_decode($body),$headers);
+					mail($email,utf8_decode("Manolete - Invierte y gana"),utf8_decode($body),$headers);
 
 		}
 
@@ -92,7 +90,7 @@ if( isset($_POST) ){
 			$_SESSION['cf_returndata'] = $returndata;
 
 			//redirect back to form
-			header('location: master-ilustracion-diseno-conceptart-madrid');
+			header('location: index.php');
 		}
 
 	}
