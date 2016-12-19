@@ -57,6 +57,7 @@ include 'cookies.php';
 
         <?php
         include "espectaculo.php";
+        include "donde-y-cuando.php";
         ?>
 
         <div id="footer-index" class="notice">

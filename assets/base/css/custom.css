@@ -1,3 +1,9 @@
+/*VARIABLES*/
+:root {
+    --red: #b50300;
+    --black: #000;
+}
+
 /*COOKIES*/
 
 #footer-index {
@@ -15,7 +21,7 @@
     text-align: center !important;
     min-height: 40px !important;
     background-color: rgb(252, 254, 255) !important;
-    color: #000;
+    color: var(--black);
     z-index: 99999;
 }
 
@@ -33,19 +39,19 @@
     border-radius: 10px 10px 10px 10px;
     -moz-border-radius: 10px 10px 10px 10px;
     -webkit-border-radius: 10px 10px 10px 10px;
-    border: 0px solid #000000;
+    border: 0px solid var(--black);
     padding: 7px 37px 7px 17px;
 
 }
 
 .ok {
     font-weight: bold;
-    color: #b50300;
+    color: var(--red);
     text-decoration: none;
 }
 
 .ok:hover {
-    color: #b50300;
+    color: var(--red);
 }
 
 @media all and (max-width: 470px) and (min-width: 365px) {
@@ -76,13 +82,18 @@
 body {
     line-height: 1.5;
     font-family: 'Lato', sans-serif;
-    color: #000 !important;
+    color: var(--black) !important;
     background-color: #ab8e7c !important;
+}
+
+/*ARROW GO TOP*/
+.icon-arrow-up {
+    color: var(--red);
 }
 
 /*MODALS*/
 .modal-content {
-overflow: auto;
+    overflow: auto;
 }
 
 /*HEADER*/
@@ -93,31 +104,71 @@ header {
 }
 
 .c-btn-red {
-    border-color: black !important;
+    border-color: var(--black) !important;
     background: transparent !important;
-    color: black !important;
+    color: var(--black) !important;
 }
 
 .c-btn-border-2x-header:hover {
-    border-color: #b50300 !important;
+    border-color: var(--red) !important;
     background: transparent !important;
     color: white !important;
 }
 
 /*TEXT*/
-.red-bold{
-    color: #b50300;
+.red-bold {
+    color: var(--red);
     font-weight: bold;
 }
-.cursive-sub-red{
-    color: #b50300;
-    border-bottom: 1px solid #b50300;
+
+.cursive-sub-red {
+    color: var(--red);
+    border-bottom: 1px solid var(--red);
 }
-h1.red-bold{
+
+h1.red-bold {
     font-size: 48px;
     font-family: 'Molle', cursive;
     margin-bottom: 1em;
 }
+
+h2.red-bold {
+    font-size: 40px;
+    font-family: 'Molle', cursive;
+    margin-bottom: 1em;
+}
+
+/*TABLE*/
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #ddd;
+
+}
+
+tr:nth-child(even) {
+    background-color: #8a6d60;
+}
+
+tr {
+    background-color: #705351;
+}
+
+hr{
+    border-color: #66464f;
+}
+
+th {
+    background-color: #66464f;
+    color: white;
+}
+
 /*.smalltext {*/
 /*padding-top: 5px;*/
 /*font-size: 16px;*/

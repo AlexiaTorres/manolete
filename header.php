@@ -27,7 +27,7 @@
                         </li>
                         <li>
                             <a class="btn btn-lg c-btn-red c-btn-border-2x c-btn-border-2x-header c-btn btn-no-focus"
-                               href="donde-y-cuando.php">Dónde y cuándo</a>
+                               href="#donde-y-cuando">Dónde y cuándo</a>
                         </li>
                         <li>
                             <a class="btn btn-lg c-btn-red c-btn-border-2x c-btn-border-2x-header c-btn btn-no-focus"
