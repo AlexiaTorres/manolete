@@ -64,24 +64,28 @@
                 y danza, y la primera vez que, además, se fusionan las áreas más clásicas con las
                 tecnologías más vanguardistas.
                 <br/><br/>
-                <h2 class="red-bold">EL ESPECTÁCULO 2.0 COMO VENTAJA COMPETITIVA</h2>
-                Las nuevas tendencias de consumo en este tipo de espectáculos satisfacen a un
-                espectador que pide ser tenido mucho más en cuenta, que demanda no solo un show, sino también un conjunto de
-                sensaciones, un producto mucho más elaborado que le
-                aporte una emoción mucho más vívida.
-                <br/><br/>
-                En el caso de Manolete, este aspecto forma parte de su ventaja competitiva,
-                aplicándolo a una escala de grandes dimensiones.
-                <br/><br/>
-                Un nuevo estilo en el que Manolete, precisamente, se posiciona como referente al
-                combinar las características más innovadoras del sector (espectáculo 2.0) con las
-                especialidades musicales más clásicas, tales como lírica y flamenco, en un espectáculo
-                de grandes dimensiones.
-                <br/><br/>
-                <span class="red-bold">Existen grandes espectáculos 2.0, pero hasta el momento ninguno de
+            <i class="red-bold">EL ESPECTÁCULO 2.0 COMO VENTAJA COMPETITIVA</i>
+            Las nuevas tendencias de consumo en este tipo de espectáculos satisfacen a un
+            espectador que pide ser tenido mucho más en cuenta, que demanda no solo un show, sino también un conjunto de
+            sensaciones, un producto mucho más elaborado que le
+            aporte una emoción mucho más vívida.
+            <br/><br/>
+            En el caso de Manolete, este aspecto forma parte de su ventaja competitiva,
+            aplicándolo a una escala de grandes dimensiones.
+            <br/><br/>
+            Un nuevo estilo en el que Manolete, precisamente, se posiciona como referente al
+            combinar las características más innovadoras del sector (espectáculo 2.0) con las
+            especialidades musicales más clásicas, tales como lírica y flamenco, en un espectáculo
+            de grandes dimensiones.
+            <br/><br/>
+            <strong>Existen grandes espectáculos 2.0, pero hasta el momento ninguno de
                     ellos se ha fusionado con éxito con otras habilidades artísticas. Este detalle
                     es el que diferencia y marca un antes y un después, posicionando a
-                    Manolete como referente del espectáculo 2.0</span>.
+                Manolete como referente del espectáculo 2.0</strong>.
+            <br/><br/>
+            <a href="pdf/resumen_presentacion.pdf" class="red-bold" download="Resumen_presentacion_Manolete">Desarga el
+                resumen de presentación</a>
+
             </p>
         </div>
     </div>

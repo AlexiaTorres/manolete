@@ -16,7 +16,7 @@
                 <img src="assets/base/img/content/patrocina_3.png" class="img-responsive"/>
                 <br/><br/><br/>
 
-                <a href="pdf/dosier_patrocinios.pdf" class="red-bold" download="Dosier_de_patrocinios_Manolete">Desarga el dosier de patrocinios</a>
+                <a href="pdf/Dossier_de_patrocinios_Manolete.pdf" class="red-bold" download="Dossier_de_patrocinios_Manolete">Desarga el dosier de patrocinios</a>
 
             </p>
         </div>

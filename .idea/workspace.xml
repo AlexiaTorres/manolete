@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af8a8d0e-5cd3-463a-81e0-381e4518a3a5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/moreinfo-ilustracion.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reservaIlustracion.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pdf/dossier_patrocinios.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pdf/resumen_presentacion_web.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/espectaculo.php" afterPath="$PROJECT_DIR$/espectaculo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patrocina.php" afterPath="$PROJECT_DIR$/patrocina.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
@@ -56,18 +57,18 @@
       <file leaf-file-name="espectaculo.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/espectaculo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="24" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="10" />
+            <state relative-caret-position="353">
+              <caret line="83" column="68" lean-forward="false" selection-start-line="83" selection-start-column="68" selection-end-line="83" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="patrocina.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="patrocina.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/patrocina.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="414">
+              <caret line="18" column="96" lean-forward="false" selection-start-line="18" selection-start-column="96" selection-end-line="18" selection-end-column="96" />
               <folding />
             </state>
           </provider>
@@ -129,19 +130,19 @@
       <list>
         <option value="$PROJECT_DIR$/rest.php" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/espectaculo.php" />
         <option value="$PROJECT_DIR$/head.php" />
         <option value="$PROJECT_DIR$/assets/base/sass/app.scss" />
         <option value="$PROJECT_DIR$/assets/base/sass/_custom.scss" />
         <option value="$PROJECT_DIR$/donde-y-cuando.php" />
         <option value="$PROJECT_DIR$/productora-y-equipo.php" />
         <option value="$PROJECT_DIR$/home.php" />
-        <option value="$PROJECT_DIR$/patrocina.php" />
         <option value="$PROJECT_DIR$/assets/base/css/custom.css" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/invierte-y-gana.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/espectaculo.php" />
+        <option value="$PROJECT_DIR$/patrocina.php" />
       </list>
     </option>
   </component>
@@ -290,12 +291,12 @@
       <updated>1482077124886</updated>
       <workItem from="1482077126668" duration="238000" />
       <workItem from="1482077553317" duration="9428000" />
-      <workItem from="1482139217332" duration="9846000" />
+      <workItem from="1482139217332" duration="10775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19512000" />
+    <option name="totallyTimeSpent" value="20441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -481,22 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patrocina.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/espectaculo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="24" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -533,6 +518,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="92" column="39" lean-forward="false" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/espectaculo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="83" column="68" lean-forward="false" selection-start-line="83" selection-start-column="68" selection-end-line="83" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patrocina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="96" lean-forward="false" selection-start-line="18" selection-start-column="96" selection-end-line="18" selection-end-column="96" />
           <folding />
         </state>
       </provider>
