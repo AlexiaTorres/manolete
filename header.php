@@ -31,7 +31,7 @@
                         </li>
                         <li>
                             <a class="btn btn-lg c-btn-red c-btn-border-2x c-btn-border-2x-header c-btn btn-no-focus"
-                               href="productora-y-equipo.php">Quién</a>
+                               href="#productora-y-equipo">Quién</a>
                         </li>
                         <li>
                             <a class="btn btn-lg c-btn-red c-btn-border-2x c-btn-border-2x-header c-btn btn-no-focus"

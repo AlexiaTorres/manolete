@@ -132,6 +132,10 @@ h1.red-bold {
     margin-bottom: 1em;
 }
 
+a:hover{
+    color: var(--red);
+}
+
 h2.red-bold {
     font-size: 40px;
     font-family: 'Molle', cursive;
